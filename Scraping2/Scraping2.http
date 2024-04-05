@@ -1,0 +1,6 @@
+@Scraping2_HostAddress = http://localhost:5257
+
+GET {{Scraping2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
